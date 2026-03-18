@@ -14,7 +14,7 @@ public class HelloService {
     }
 
     public String getHelloMessage() {
-        // Appel au repository pour récupérer l'entité
+       
         Hello hello = helloRepository.findHelloMessage();
         return hello.getMessage();
     }
