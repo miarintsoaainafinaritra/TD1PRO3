@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5ae31a8b-0665-4ba7-b849-7ebc00ab484b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Nouveau dossie/.idea/Nouveau dossie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td1/src/main/java/hei/school/td1/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td1/src/main/java/hei/school/td1/entity/Hello.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td1/src/main/java/hei/school/td1/repository/HelloRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/td1/src/main/java/hei/school/td1/service/HelloService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet k2/src/main/java/com/hotel/booking/dto/Booking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet k2/src/main/java/com/hotel/booking/dto/BookingRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet k2/src/main/java/com/hotel/booking/dto/BookingService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet k2/src/main/java/com/hotel/booking/dto/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet k2/src/main/java/com/hotel/booking/dto/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projet k2/src/main/java/com/hotel/booking/dto/openapi.yaml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CopilotPersistence">
+    <persistenceIdMap>
+      <entry key="_D:/TD1k2" value="3B7dXYJD5fZAihn0Tfvm1g0YpPh" />
+    </persistenceIdMap>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="3B7dXYJD5fZAihn0Tfvm1g0YpPh" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "Spring Boot.Application.executor": "Run",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/TD1K2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="hei.school.td1.controller" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <option name="FRAME_DEACTIVATION_UPDATE_POLICY" value="UnknownPolicyInFreeMode" />
+      <module name="td1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hei.school.td1.Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hei.school.td1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ae31a8b-0665-4ba7-b849-7ebc00ab484b" name="Changes" comment="" />
+      <created>1773844082975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1773844082975</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="github-copilot-workspace">
+    <instructionFileLocations>
+      <option value=".github/instructions" />
+    </instructionFileLocations>
+    <promptFileLocations>
+      <option value=".github/prompts" />
+    </promptFileLocations>
+  </component>
+</project>
